@@ -14,7 +14,7 @@
 
 📝 roles en el ámbito: programador y Desarrollador web
 
-📫 Contacto: **jucasave7002@gmail.com**
+📫 Contacto: **jucasave7002@outlook.com**
 <!--Intro end-->
   </p>
 <br>
