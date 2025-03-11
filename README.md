@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/juan-carlos-saavedra-villagomez-2a8bb6316/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="unsimpledev"/></a>
 <a href="https://www.facebook.com/profile.php?id=100076334268624&mibextid=ZbWKwL" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "mailto:jucasave7002@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+</a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
